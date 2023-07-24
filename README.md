@@ -1,12 +1,13 @@
 ## Hey, I’m Austen 🖖! (@AustenWallis)
 
-#### I work in astronomy, computational astrophysics, quantitative finance and architecture/construction. 
+#### I work in Astronomy, Computational Astrophysics (ML/DL), Quantitative Finance and Architecture/Construction. 
 
 - 📖 I’m currently studying as a 1st-year postgraduate researcher in (Astro)physics at the University of Southampton (July 2023).
 
-- 🌬️ My PhD research work is on the emulation of complex and imperfect astrophysical systems based on the accretion disk winds in quasars. This is for the rapid emulation of the Radiative Transfer Code, 'Python'. The code is called '[Speculate](https://github.com/AustenWallis/Speculate)' and is accessible as a GitHub repository. Speculate currently is a PCA Gaussian Process Emulator, where the astro spectral data is reduced in dimensions, and the weight space is interpolated to mimic any region not defined by a grid point. More info can be found in Speculate's cookbook. The 4-year project aims to introduce novel methods to accurately match 30+ physical parameters from physically imperfect simulations (due to incorrect or missing theories) to real observational data. 
+- 🌬️ My PhD research is on emulating complex and imperfect astrophysical systems for accretion disk winds in quasars. This is for the rapid emulation of the Radiative Transfer Code, '[Python](https://github.com/agnwinds/python)' (coded in C).
+  - My code is called '[Speculate](https://github.com/AustenWallis/Speculate)' and is accessible through the linked GitHub repository. Speculate currently is a PCA Gaussian Process Emulator, where 'Python' spectral data is reduced in dimensions, and the weight space is interpolated to mimic any region not defined by a grid point. The 4-year project aims to introduce novel methods to accurately match 30+ physical parameters from physically imperfect simulations (due to incorrect or missing theories) to real observational data. More info can be found in Speculate's cookbook.
 
-- 📈 I'm also developing as a hobby my own private repository code, Silvanus, a quantitative trading/backtesting script. I spend my free time self-learning quantitative finance, transferring my Astro, Maths and Statistics work and education to new datasets pulled from the Bloomberg terminal. 
+- 📈 I'm also developing as a hobby my own private repository code, Silvanus, a quantitative trading/backtesting script. I spend my free time self-learning quantitative finance, transferring my Astro, Maths and Statistics education and research to new datasets pulled from the Bloomberg terminal. 
   
 ###### 📥 Feel free to contact me to collaborate with accretion disk winds or fun quantitative problems.
 ###### Email at riggs491@gmail.com; it's a spam email account, I'll pick it up :)
