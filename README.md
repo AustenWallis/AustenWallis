@@ -1,6 +1,6 @@
 ## Hey, I’m Austen 🖖! (@AustenWallis)
 
-#### I work in Astronomy, Computational Astrophysics (ML/DL), Quantitative Finance and Architecture/Construction. 
+#### I work in Astronomy and Computational Astrophysics (ML/DL) with hobbies including Quantitative Finance and Architecture/Construction. 
 
 - 📖 I’m currently studying as a 2nd-year postgraduate researcher in (Astro)physics at the University of Southampton (June 2024).
 
