@@ -2,7 +2,7 @@
 
 #### I work in Astronomy, Computational Astrophysics (ML/DL), Quantitative Finance and Architecture/Construction. 
 
-- 📖 I’m currently studying as a 1st-year postgraduate researcher in (Astro)physics at the University of Southampton (July 2023).
+- 📖 I’m currently studying as a 2nd-year postgraduate researcher in (Astro)physics at the University of Southampton (June 2024).
 
 - 🌬️ My PhD research is on emulating complex and imperfect astrophysical systems for accretion disk winds in quasars. This is for the rapid emulation of the Radiative Transfer Code, '[Python](https://github.com/agnwinds/python)' (coded in C).
   - My code is called '[Speculate](https://github.com/AustenWallis/Speculate)' and is accessible through the linked GitHub repository. Speculate currently is a PCA Gaussian Process Emulator, where 'Python' spectral data is reduced in dimensions, and the weight space is interpolated to mimic any region not defined by a grid point. The 4-year project aims to introduce novel methods to accurately match 30+ physical parameters from physically imperfect simulations (due to incorrect or missing theories) to real observational data. More info can be found in Speculate's cookbook.
